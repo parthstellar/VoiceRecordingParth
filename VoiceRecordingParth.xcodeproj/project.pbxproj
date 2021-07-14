@@ -462,7 +462,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.VoiceRecordingParth;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/apple/Downloads/VoiceMemosClone/VoiceRecordingParth/Objective-C Bridge/VoiceRecordingParth-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/apple/Downloads/VoiceRecordingParth/VoiceRecordingParth/Objective-C Bridge/VoiceRecordingParth-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -482,7 +482,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.VoiceRecordingParth;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/apple/Downloads/VoiceMemosClone/VoiceRecordingParth/Objective-C Bridge/VoiceRecordingParth-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/apple/Downloads/VoiceRecordingParth/VoiceRecordingParth/Objective-C Bridge/VoiceRecordingParth-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
